@@ -1,0 +1,37 @@
+[
+   {
+      "directory" : "C:/Users/JamesHotten/Desktop/code/ti/start53/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2010/ccs/ccs_base/arm/include\" -I\"C:/ti/ccs2010/ccs/ccs_base/arm/include/CMSIS\" -I\"C:/Users/JamesHotten/Desktop/code/ti/start53\" -I\"C:/ti/ti-cgt-arm_20.2.7.LTS/include\" -I\"C:/ti/simplelink_msp432e4_sdk_4_20_00_12/source\" -Dccs -D__MSP432E401Y__ -xc",
+      "file"      : "C:/Users/JamesHotten/Desktop/code/ti/start53/adc.c"
+   },
+   {
+      "directory" : "C:/Users/JamesHotten/Desktop/code/ti/start53/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2010/ccs/ccs_base/arm/include\" -I\"C:/ti/ccs2010/ccs/ccs_base/arm/include/CMSIS\" -I\"C:/Users/JamesHotten/Desktop/code/ti/start53\" -I\"C:/ti/ti-cgt-arm_20.2.7.LTS/include\" -I\"C:/ti/simplelink_msp432e4_sdk_4_20_00_12/source\" -Dccs -D__MSP432E401Y__ -xc++",
+      "file"      : "C:/Users/JamesHotten/Desktop/code/ti/start53/main.cpp"
+   },
+   {
+      "directory" : "C:/Users/JamesHotten/Desktop/code/ti/start53/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2010/ccs/ccs_base/arm/include\" -I\"C:/ti/ccs2010/ccs/ccs_base/arm/include/CMSIS\" -I\"C:/Users/JamesHotten/Desktop/code/ti/start53\" -I\"C:/ti/ti-cgt-arm_20.2.7.LTS/include\" -I\"C:/ti/simplelink_msp432e4_sdk_4_20_00_12/source\" -Dccs -D__MSP432E401Y__ -xc",
+      "file"      : "C:/Users/JamesHotten/Desktop/code/ti/start53/startup_msp432e401y_ccs.c"
+   },
+   {
+      "directory" : "C:/Users/JamesHotten/Desktop/code/ti/start53/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2010/ccs/ccs_base/arm/include\" -I\"C:/ti/ccs2010/ccs/ccs_base/arm/include/CMSIS\" -I\"C:/Users/JamesHotten/Desktop/code/ti/start53\" -I\"C:/ti/ti-cgt-arm_20.2.7.LTS/include\" -I\"C:/ti/simplelink_msp432e4_sdk_4_20_00_12/source\" -Dccs -D__MSP432E401Y__ -xc",
+      "file"      : "C:/Users/JamesHotten/Desktop/code/ti/start53/system_msp432e401y.c"
+   },
+   {
+      "directory" : "C:/Users/JamesHotten/Desktop/code/ti/start53/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2010/ccs/ccs_base/arm/include\" -I\"C:/ti/ccs2010/ccs/ccs_base/arm/include/CMSIS\" -I\"C:/Users/JamesHotten/Desktop/code/ti/start53\" -I\"C:/ti/ti-cgt-arm_20.2.7.LTS/include\" -I\"C:/ti/simplelink_msp432e4_sdk_4_20_00_12/source\" -Dccs -D__MSP432E401Y__ -xc++",
+      "file"      : "C:/Users/JamesHotten/Desktop/code/ti/start53/uart0.cpp"
+   },
+   {
+      "directory" : "C:/Users/JamesHotten/Desktop/code/ti/start53/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2010/ccs/ccs_base/arm/include\" -I\"C:/ti/ccs2010/ccs/ccs_base/arm/include/CMSIS\" -I\"C:/Users/JamesHotten/Desktop/code/ti/start53\" -I\"C:/ti/ti-cgt-arm_20.2.7.LTS/include\" -I\"C:/ti/simplelink_msp432e4_sdk_4_20_00_12/source\" -Dccs -D__MSP432E401Y__ -xc++",
+      "file"      : "C:/Users/JamesHotten/Desktop/code/ti/start53/uart3.cpp"
+   },
+   {
+      "directory" : "C:/Users/JamesHotten/Desktop/code/ti/start53/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2010/ccs/ccs_base/arm/include\" -I\"C:/ti/ccs2010/ccs/ccs_base/arm/include/CMSIS\" -I\"C:/Users/JamesHotten/Desktop/code/ti/start53\" -I\"C:/ti/ti-cgt-arm_20.2.7.LTS/include\" -I\"C:/ti/simplelink_msp432e4_sdk_4_20_00_12/source\" -Dccs -D__MSP432E401Y__ -xc++",
+      "file"      : "C:/Users/JamesHotten/Desktop/code/ti/start53/uart6.cpp"
+   }
+]

@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.m": "matlab",
+        "uartstdio.h": "c",
+        "string": "cpp"
+    }
+}

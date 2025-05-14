@@ -1,0 +1,7 @@
+17:44:16 **** Incremental Build of configuration Debug for project tjc_uart ****
+make -j8 all 
+arm-none-eabi-size  tjc_uart.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11760	     92	   2484	  14336	   3800	tjc_uart.elf
+Finished building: default.size.stdout
+ 

@@ -1,0 +1,17 @@
+[
+   {
+      "directory" : "D:/css/empty_LP_MSPM0G3507_nortos_gcc/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"D:/css/empty_LP_MSPM0G3507_nortos_gcc\" -I\"D:/css/empty_LP_MSPM0G3507_nortos_gcc/Debug\" -I\"D:/TI/mspm0_sdk_2_04_00_06/source/third_party/CMSIS/Core/Include\" -I\"D:/TI/mspm0_sdk_2_04_00_06/source\" -I\"E:/CHENHUI/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include/newlib-nano\" -I\"E:/CHENHUI/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include\" -isystem\"E:/CHENHUI/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include/c++/9.2.1\" -isystem\"E:/CHENHUI/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include/c++/9.2.1/arm-none-eabi\" -isystem\"E:/CHENHUI/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include/c++/9.2.1/backward\" -isystem\"E:/CHENHUI/gcc_arm_none_eabi_9_2_1/lib/gcc/arm-none-eabi/9.2.1/include\" -isystem\"E:/CHENHUI/gcc_arm_none_eabi_9_2_1/lib/gcc/arm-none-eabi/9.2.1/include-fixed\" -isystem\"E:/CHENHUI/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include\"",
+      "file"      : "D:/css/empty_LP_MSPM0G3507_nortos_gcc/Debug/ti_msp_dl_config.c"
+   },
+   {
+      "directory" : "D:/css/empty_LP_MSPM0G3507_nortos_gcc/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"D:/css/empty_LP_MSPM0G3507_nortos_gcc\" -I\"D:/css/empty_LP_MSPM0G3507_nortos_gcc/Debug\" -I\"D:/TI/mspm0_sdk_2_04_00_06/source/third_party/CMSIS/Core/Include\" -I\"D:/TI/mspm0_sdk_2_04_00_06/source\" -I\"E:/CHENHUI/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include/newlib-nano\" -I\"E:/CHENHUI/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include\" -isystem\"E:/CHENHUI/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include/c++/9.2.1\" -isystem\"E:/CHENHUI/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include/c++/9.2.1/arm-none-eabi\" -isystem\"E:/CHENHUI/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include/c++/9.2.1/backward\" -isystem\"E:/CHENHUI/gcc_arm_none_eabi_9_2_1/lib/gcc/arm-none-eabi/9.2.1/include\" -isystem\"E:/CHENHUI/gcc_arm_none_eabi_9_2_1/lib/gcc/arm-none-eabi/9.2.1/include-fixed\" -isystem\"E:/CHENHUI/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include\"",
+      "file"      : "D:/css/empty_LP_MSPM0G3507_nortos_gcc/TFT180.c"
+   },
+   {
+      "directory" : "D:/css/empty_LP_MSPM0G3507_nortos_gcc/Debug",
+      "command"   : "clang++ -D__MSPM0G3507__ -I\"D:/css/empty_LP_MSPM0G3507_nortos_gcc\" -I\"D:/css/empty_LP_MSPM0G3507_nortos_gcc/Debug\" -I\"D:/TI/mspm0_sdk_2_04_00_06/source/third_party/CMSIS/Core/Include\" -I\"D:/TI/mspm0_sdk_2_04_00_06/source\" -I\"E:/CHENHUI/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include/newlib-nano\" -I\"E:/CHENHUI/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include\" -isystem\"E:/CHENHUI/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include/c++/9.2.1\" -isystem\"E:/CHENHUI/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include/c++/9.2.1/arm-none-eabi\" -isystem\"E:/CHENHUI/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include/c++/9.2.1/backward\" -isystem\"E:/CHENHUI/gcc_arm_none_eabi_9_2_1/lib/gcc/arm-none-eabi/9.2.1/include\" -isystem\"E:/CHENHUI/gcc_arm_none_eabi_9_2_1/lib/gcc/arm-none-eabi/9.2.1/include-fixed\" -isystem\"E:/CHENHUI/gcc_arm_none_eabi_9_2_1/arm-none-eabi/include\"",
+      "file"      : "D:/css/empty_LP_MSPM0G3507_nortos_gcc/empty.c"
+   }
+]

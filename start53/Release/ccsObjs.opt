@@ -1,0 +1,9 @@
+"./adc.obj"
+"./main.obj"
+"./startup_msp432e401y_ccs.obj"
+"./system_msp432e401y.obj"
+"./uart0.obj"
+"./uart3.obj"
+"./uart6.obj"
+"../msp432e401y.cmd"
+-llibc.a

@@ -1,0 +1,796 @@
+Archive member included to satisfy reference by file (symbol)
+
+D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_common.o)
+                              ./TFT180.o (DL_Common_delayCycles)
+D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_spi.o)
+                              ./ti_msp_dl_config.o (DL_SPI_init)
+e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+                              ./TFT180.o (__aeabi_idiv)
+e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+                              e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o) (__aeabi_idiv0)
+e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpsf2.o)
+                              ./TFT180.o (__aeabi_fcmpeq)
+e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(eqsf2.o)
+                              e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpsf2.o) (__eqsf2)
+e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(gesf2.o)
+                              e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpsf2.o) (__gesf2)
+e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(lesf2.o)
+                              e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpsf2.o) (__lesf2)
+e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(mulsf3.o)
+                              ./TFT180.o (__aeabi_fmul)
+e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(subsf3.o)
+                              ./TFT180.o (__aeabi_fsub)
+e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(fixsfsi.o)
+                              ./TFT180.o (__aeabi_f2iz)
+e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(floatsisf.o)
+                              ./TFT180.o (__aeabi_i2f)
+e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
+                              e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(mulsf3.o) (__clzsi2)
+E:/CHENHUI/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-init.o)
+                              ./startup_mspm0g350x_gcc.o (__libc_init_array)
+
+Allocating common symbols
+Common symbol       size              file
+
+gTFT_SPIBackup      0x28              ./ti_msp_dl_config.o
+
+Discarded input sections
+
+ .rodata.I2C0   0x00000000        0x4 ./TFT180.o
+ .rodata.SYSCTL
+                0x00000000        0x4 ./TFT180.o
+ .rodata.WWDT1  0x00000000        0x4 ./TFT180.o
+ .rodata.CPUSS  0x00000000        0x4 ./TFT180.o
+ .rodata.CANFD0
+                0x00000000        0x4 ./TFT180.o
+ .rodata.IOMUX  0x00000000        0x4 ./TFT180.o
+ .rodata.GPIOB  0x00000000        0x4 ./TFT180.o
+ .rodata.CRC    0x00000000        0x4 ./TFT180.o
+ .rodata.WWDT0  0x00000000        0x4 ./TFT180.o
+ .rodata.SPI1   0x00000000        0x4 ./TFT180.o
+ .rodata.DAC0   0x00000000        0x4 ./TFT180.o
+ .rodata.I2C1   0x00000000        0x4 ./TFT180.o
+ .rodata.GPIOA  0x00000000        0x4 ./TFT180.o
+ .rodata.FLASHCTL
+                0x00000000        0x4 ./TFT180.o
+ .rodata.TRNG   0x00000000        0x4 ./TFT180.o
+ .rodata.RTC    0x00000000        0x4 ./TFT180.o
+ .rodata.SPI0   0x00000000        0x4 ./TFT180.o
+ .rodata.AES    0x00000000        0x4 ./TFT180.o
+ .rodata.DMA    0x00000000        0x4 ./TFT180.o
+ .rodata.OPA0   0x00000000        0x4 ./TFT180.o
+ .rodata.OPA1   0x00000000        0x4 ./TFT180.o
+ .rodata.TIMA0  0x00000000        0x4 ./TFT180.o
+ .rodata.TIMA1  0x00000000        0x4 ./TFT180.o
+ .rodata.UART3  0x00000000        0x4 ./TFT180.o
+ .rodata.UART0  0x00000000        0x4 ./TFT180.o
+ .rodata.UART1  0x00000000        0x4 ./TFT180.o
+ .rodata.UART2  0x00000000        0x4 ./TFT180.o
+ .rodata.COMP0  0x00000000        0x4 ./TFT180.o
+ .rodata.COMP1  0x00000000        0x4 ./TFT180.o
+ .rodata.COMP2  0x00000000        0x4 ./TFT180.o
+ .rodata.WUC    0x00000000        0x4 ./TFT180.o
+ .rodata.FACTORYREGION
+                0x00000000        0x4 ./TFT180.o
+ .rodata.ADC0   0x00000000        0x4 ./TFT180.o
+ .rodata.ADC0_PERIPHERALREGIONSVT
+                0x00000000        0x4 ./TFT180.o
+ .rodata.ADC1   0x00000000        0x4 ./TFT180.o
+ .rodata.ADC1_PERIPHERALREGIONSVT
+                0x00000000        0x4 ./TFT180.o
+ .rodata.TIMG0  0x00000000        0x4 ./TFT180.o
+ .rodata.VREF   0x00000000        0x4 ./TFT180.o
+ .rodata.MATHACL
+                0x00000000        0x4 ./TFT180.o
+ .rodata.TIMG12
+                0x00000000        0x4 ./TFT180.o
+ .rodata.TIMG6  0x00000000        0x4 ./TFT180.o
+ .rodata.TIMG7  0x00000000        0x4 ./TFT180.o
+ .rodata.TIMG8  0x00000000        0x4 ./TFT180.o
+ .rodata.DEBUGSS
+                0x00000000        0x4 ./TFT180.o
+ .bss.tft180_pencolor
+                0x00000000        0x2 ./TFT180.o
+ .text.test     0x00000000       0x38 ./TFT180.o
+ .text.abs      0x00000000       0x1e ./TFT180.o
+ .text.func_float_to_str
+                0x00000000      0x1e4 ./TFT180.o
+ .text.tft180_show_num_color
+                0x00000000      0x110 ./TFT180.o
+ .rodata.I2C0   0x00000000        0x4 ./empty.o
+ .rodata.SYSCTL
+                0x00000000        0x4 ./empty.o
+ .rodata.WWDT1  0x00000000        0x4 ./empty.o
+ .rodata.CPUSS  0x00000000        0x4 ./empty.o
+ .rodata.CANFD0
+                0x00000000        0x4 ./empty.o
+ .rodata.IOMUX  0x00000000        0x4 ./empty.o
+ .rodata.GPIOB  0x00000000        0x4 ./empty.o
+ .rodata.CRC    0x00000000        0x4 ./empty.o
+ .rodata.WWDT0  0x00000000        0x4 ./empty.o
+ .rodata.SPI1   0x00000000        0x4 ./empty.o
+ .rodata.DAC0   0x00000000        0x4 ./empty.o
+ .rodata.I2C1   0x00000000        0x4 ./empty.o
+ .rodata.GPIOA  0x00000000        0x4 ./empty.o
+ .rodata.FLASHCTL
+                0x00000000        0x4 ./empty.o
+ .rodata.TRNG   0x00000000        0x4 ./empty.o
+ .rodata.RTC    0x00000000        0x4 ./empty.o
+ .rodata.SPI0   0x00000000        0x4 ./empty.o
+ .rodata.AES    0x00000000        0x4 ./empty.o
+ .rodata.DMA    0x00000000        0x4 ./empty.o
+ .rodata.OPA0   0x00000000        0x4 ./empty.o
+ .rodata.OPA1   0x00000000        0x4 ./empty.o
+ .rodata.TIMA0  0x00000000        0x4 ./empty.o
+ .rodata.TIMA1  0x00000000        0x4 ./empty.o
+ .rodata.UART3  0x00000000        0x4 ./empty.o
+ .rodata.UART0  0x00000000        0x4 ./empty.o
+ .rodata.UART1  0x00000000        0x4 ./empty.o
+ .rodata.UART2  0x00000000        0x4 ./empty.o
+ .rodata.COMP0  0x00000000        0x4 ./empty.o
+ .rodata.COMP1  0x00000000        0x4 ./empty.o
+ .rodata.COMP2  0x00000000        0x4 ./empty.o
+ .rodata.WUC    0x00000000        0x4 ./empty.o
+ .rodata.FACTORYREGION
+                0x00000000        0x4 ./empty.o
+ .rodata.ADC0   0x00000000        0x4 ./empty.o
+ .rodata.ADC0_PERIPHERALREGIONSVT
+                0x00000000        0x4 ./empty.o
+ .rodata.ADC1   0x00000000        0x4 ./empty.o
+ .rodata.ADC1_PERIPHERALREGIONSVT
+                0x00000000        0x4 ./empty.o
+ .rodata.TIMG0  0x00000000        0x4 ./empty.o
+ .rodata.VREF   0x00000000        0x4 ./empty.o
+ .rodata.MATHACL
+                0x00000000        0x4 ./empty.o
+ .rodata.TIMG12
+                0x00000000        0x4 ./empty.o
+ .rodata.TIMG6  0x00000000        0x4 ./empty.o
+ .rodata.TIMG7  0x00000000        0x4 ./empty.o
+ .rodata.TIMG8  0x00000000        0x4 ./empty.o
+ .rodata.DEBUGSS
+                0x00000000        0x4 ./empty.o
+ .rodata.I2C0   0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.SYSCTL
+                0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.WWDT1  0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.CPUSS  0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.CANFD0
+                0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.IOMUX  0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.GPIOB  0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.CRC    0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.WWDT0  0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.SPI1   0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.DAC0   0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.I2C1   0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.GPIOA  0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.FLASHCTL
+                0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.TRNG   0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.RTC    0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.SPI0   0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.AES    0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.DMA    0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.OPA0   0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.OPA1   0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.TIMA0  0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.TIMA1  0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.UART3  0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.UART0  0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.UART1  0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.UART2  0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.COMP0  0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.COMP1  0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.COMP2  0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.WUC    0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.FACTORYREGION
+                0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.ADC0   0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.ADC0_PERIPHERALREGIONSVT
+                0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.ADC1   0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.ADC1_PERIPHERALREGIONSVT
+                0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.TIMG0  0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.VREF   0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.MATHACL
+                0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.TIMG12
+                0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.TIMG6  0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.TIMG7  0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.TIMG8  0x00000000        0x4 ./ti_msp_dl_config.o
+ .rodata.DEBUGSS
+                0x00000000        0x4 ./ti_msp_dl_config.o
+ .text.SYSCFG_DL_saveConfiguration
+                0x00000000       0x40 ./ti_msp_dl_config.o
+ .text.SYSCFG_DL_restoreConfiguration
+                0x00000000       0x40 ./ti_msp_dl_config.o
+ .text.DL_SPI_getClockConfig
+                0x00000000       0x14 D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_spi.o)
+ .text.DL_SPI_receiveDataBlocking8
+                0x00000000       0x1c D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_spi.o)
+ .text.DL_SPI_receiveDataBlocking16
+                0x00000000       0x1c D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_spi.o)
+ .text.DL_SPI_receiveDataBlocking32
+                0x00000000       0x18 D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_spi.o)
+ .text.DL_SPI_transmitDataBlocking8
+                0x00000000       0x18 D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_spi.o)
+ .text.DL_SPI_transmitDataBlocking16
+                0x00000000       0x18 D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_spi.o)
+ .text.DL_SPI_transmitDataBlocking32
+                0x00000000       0x18 D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_spi.o)
+ .text.DL_SPI_receiveDataCheck8
+                0x00000000       0x20 D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_spi.o)
+ .text.DL_SPI_receiveDataCheck16
+                0x00000000       0x20 D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_spi.o)
+ .text.DL_SPI_receiveDataCheck32
+                0x00000000       0x20 D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_spi.o)
+ .text.DL_SPI_transmitDataCheck8
+                0x00000000       0x1c D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_spi.o)
+ .text.DL_SPI_transmitDataCheck16
+                0x00000000       0x1c D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_spi.o)
+ .text.DL_SPI_transmitDataCheck32
+                0x00000000       0x1c D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_spi.o)
+ .text.DL_SPI_drainRXFIFO8
+                0x00000000       0x2c D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_spi.o)
+ .text.DL_SPI_drainRXFIFO16
+                0x00000000       0x34 D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_spi.o)
+ .text.DL_SPI_drainRXFIFO32
+                0x00000000       0x34 D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_spi.o)
+ .text.DL_SPI_fillTXFIFO8
+                0x00000000       0x2c D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_spi.o)
+ .text.DL_SPI_fillTXFIFO16
+                0x00000000       0x2c D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_spi.o)
+ .text.DL_SPI_saveConfiguration
+                0x00000000       0x70 D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_spi.o)
+ .text.DL_SPI_restoreConfiguration
+                0x00000000       0x7c D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_spi.o)
+ .text.DL_SPI_fillTXFIFO32
+                0x00000000       0x2c D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_spi.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00000000         0x00020000         xr
+SRAM             0x20200000         0x00008000         xrw
+BCR_CONFIG       0x41c00000         0x000000ff         r
+BSL_CONFIG       0x41c00100         0x00000080         r
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./TFT180.o
+LOAD ./empty.o
+LOAD ./ti_msp_dl_config.o
+LOAD ./startup_mspm0g350x_gcc.o
+                0x00000000                _Min_Heap_Size = 0x0
+                0x00000080                _Min_Stack_Size = 0x80
+                0x00000000                PROVIDE (_intvecs_base_address = DEFINED (_intvecs_base_address)?_intvecs_base_address:0x0)
+
+.intvecs        0x00000000       0xc0
+ *(.intvecs)
+ .intvecs       0x00000000       0xc0 ./startup_mspm0g350x_gcc.o
+                0x00000000                interruptVectors
+                0x20200000                PROVIDE (_vtable_base_address = DEFINED (_vtable_base_address)?_vtable_base_address:0x20200000)
+
+.vtable
+ *(.vtable)
+
+.text           0x000000c0     0x17d0
+ CREATE_OBJECT_SYMBOLS
+ *(.text)
+ .text          0x000000c0        0x0 ./TFT180.o
+ .text          0x000000c0        0x0 ./empty.o
+ .text          0x000000c0        0x0 ./ti_msp_dl_config.o
+ .text          0x000000c0        0x0 ./startup_mspm0g350x_gcc.o
+ .text          0x000000c0        0x0 D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_common.o)
+ .text          0x000000c0        0x0 D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_spi.o)
+ .text          0x000000c0      0x1d4 e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+                0x000000c0                __divsi3
+                0x000000c0                __aeabi_idiv
+                0x0000028c                __aeabi_idivmod
+ .text          0x00000294        0x4 e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+                0x00000294                __aeabi_idiv0
+                0x00000294                __aeabi_ldiv0
+ .text          0x00000298       0x74 e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpsf2.o)
+                0x00000298                __aeabi_cfrcmple
+                0x000002a0                __aeabi_cfcmpeq
+                0x000002a0                __aeabi_cfcmple
+                0x000002b0                __aeabi_fcmpeq
+                0x000002bc                __aeabi_fcmplt
+                0x000002d0                __aeabi_fcmple
+                0x000002e4                __aeabi_fcmpgt
+                0x000002f8                __aeabi_fcmpge
+ .text          0x0000030c       0x50 e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(eqsf2.o)
+                0x0000030c                __eqsf2
+                0x0000030c                __nesf2
+ .text          0x0000035c       0x98 e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(gesf2.o)
+                0x0000035c                __gesf2
+                0x0000035c                __gtsf2
+ .text          0x000003f4       0x94 e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(lesf2.o)
+                0x000003f4                __ltsf2
+                0x000003f4                __lesf2
+ .text          0x00000488      0x234 e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(mulsf3.o)
+                0x00000488                __aeabi_fmul
+ .text          0x000006bc      0x390 e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(subsf3.o)
+                0x000006bc                __aeabi_fsub
+ .text          0x00000a4c       0x40 e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(fixsfsi.o)
+                0x00000a4c                __aeabi_f2iz
+ .text          0x00000a8c       0x8c e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(floatsisf.o)
+                0x00000a8c                __aeabi_i2f
+ .text          0x00000b18       0x3c e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
+                0x00000b18                __clzsi2
+ .text          0x00000b54        0x0 E:/CHENHUI/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-init.o)
+                0x00000b58                . = ALIGN (0x8)
+ *fill*         0x00000b54        0x4 
+ *(.text.*)
+ .text.DL_GPIO_setPins
+                0x00000b58       0x20 ./TFT180.o
+ .text.DL_GPIO_clearPins
+                0x00000b78       0x1c ./TFT180.o
+ .text.DL_SPI_isBusy
+                0x00000b94       0x28 ./TFT180.o
+ .text.DL_SPI_transmitData8
+                0x00000bbc       0x22 ./TFT180.o
+ *fill*         0x00000bde        0x2 
+ .text.tft180_write_8bit_data
+                0x00000be0       0x38 ./TFT180.o
+                0x00000be0                tft180_write_8bit_data
+ .text.tft180_write_16bit_data
+                0x00000c18       0x5c ./TFT180.o
+                0x00000c18                tft180_write_16bit_data
+ .text.tft180_write_index
+                0x00000c74       0x40 ./TFT180.o
+ .text.tft180_set_region
+                0x00000cb4       0x90 ./TFT180.o
+ .text.tft180_clear_color
+                0x00000d44       0x8c ./TFT180.o
+                0x00000d44                tft180_clear_color
+ .text.tft180_init
+                0x00000dd0      0x284 ./TFT180.o
+                0x00000dd0                tft180_init
+ .text.tft180_show_char_color
+                0x00001054      0x178 ./TFT180.o
+                0x00001054                tft180_show_char_color
+ .text.tft180_show_string_color
+                0x000011cc       0x80 ./TFT180.o
+                0x000011cc                tft180_show_string_color
+ .text.main     0x0000124c       0x34 ./empty.o
+                0x0000124c                main
+ .text.DL_Common_updateReg
+                0x00001280       0x32 ./ti_msp_dl_config.o
+ *fill*         0x000012b2        0x2 
+ .text.DL_SYSCTL_setBORThreshold
+                0x000012b4       0x28 ./ti_msp_dl_config.o
+ .text.DL_SYSCTL_setMCLKDivider
+                0x000012dc       0x30 ./ti_msp_dl_config.o
+ .text.DL_SYSCTL_setSYSOSCFreq
+                0x0000130c       0x2c ./ti_msp_dl_config.o
+ .text.DL_SYSCTL_setULPCLKDivider
+                0x00001338       0x30 ./ti_msp_dl_config.o
+ .text.DL_SYSCTL_disableSYSPLL
+                0x00001368       0x28 ./ti_msp_dl_config.o
+ .text.DL_SYSCTL_disableHFXT
+                0x00001390       0x24 ./ti_msp_dl_config.o
+ .text.DL_GPIO_enablePower
+                0x000013b4       0x20 ./ti_msp_dl_config.o
+ .text.DL_GPIO_reset
+                0x000013d4       0x20 ./ti_msp_dl_config.o
+ .text.DL_GPIO_initDigitalOutputFeatures
+                0x000013f4       0x38 ./ti_msp_dl_config.o
+ .text.DL_GPIO_initPeripheralOutputFunction
+                0x0000142c       0x28 ./ti_msp_dl_config.o
+ .text.DL_GPIO_initPeripheralInputFunction
+                0x00001454       0x2c ./ti_msp_dl_config.o
+ .text.DL_GPIO_setPins
+                0x00001480       0x20 ./ti_msp_dl_config.o
+ .text.DL_GPIO_clearPins
+                0x000014a0       0x1c ./ti_msp_dl_config.o
+ .text.DL_GPIO_enableOutput
+                0x000014bc       0x20 ./ti_msp_dl_config.o
+ .text.DL_SPI_enablePower
+                0x000014dc       0x20 ./ti_msp_dl_config.o
+ .text.DL_SPI_reset
+                0x000014fc       0x20 ./ti_msp_dl_config.o
+ .text.DL_SPI_enable
+                0x0000151c       0x24 ./ti_msp_dl_config.o
+ .text.DL_SPI_setFIFOThreshold
+                0x00001540       0x40 ./ti_msp_dl_config.o
+ .text.DL_SPI_setBitRateSerialClockDivider
+                0x00001580       0x2c ./ti_msp_dl_config.o
+ .text.SYSCFG_DL_init
+                0x000015ac       0x28 ./ti_msp_dl_config.o
+                0x000015ac                SYSCFG_DL_init
+ .text.SYSCFG_DL_initPower
+                0x000015d4       0x4c ./ti_msp_dl_config.o
+                0x000015d4                SYSCFG_DL_initPower
+ .text.SYSCFG_DL_GPIO_init
+                0x00001620       0xa4 ./ti_msp_dl_config.o
+                0x00001620                SYSCFG_DL_GPIO_init
+ .text.SYSCFG_DL_SYSCTL_init
+                0x000016c4       0x2a ./ti_msp_dl_config.o
+                0x000016c4                SYSCFG_DL_SYSCTL_init
+ *fill*         0x000016ee        0x2 
+ .text.SYSCFG_DL_TFT_SPI_init
+                0x000016f0       0x4c ./ti_msp_dl_config.o
+                0x000016f0                SYSCFG_DL_TFT_SPI_init
+ .text.initStub
+                0x0000173c        0xa ./startup_mspm0g350x_gcc.o
+                0x0000173c                initStub
+                0x0000173c                _init
+ *fill*         0x00001746        0x2 
+ .text.Reset_Handler
+                0x00001748       0x9c ./startup_mspm0g350x_gcc.o
+                0x00001748                Reset_Handler
+ .text.Default_Handler
+                0x000017e4        0x6 ./startup_mspm0g350x_gcc.o
+                0x000017e4                TIMG6_IRQHandler
+                0x000017e4                TIMG8_IRQHandler
+                0x000017e4                I2C0_IRQHandler
+                0x000017e4                HardFault_Handler
+                0x000017e4                SysTick_Handler
+                0x000017e4                PendSV_Handler
+                0x000017e4                NMI_Handler
+                0x000017e4                I2C1_IRQHandler
+                0x000017e4                UART1_IRQHandler
+                0x000017e4                TIMA1_IRQHandler
+                0x000017e4                UART0_IRQHandler
+                0x000017e4                ADC0_IRQHandler
+                0x000017e4                SPI1_IRQHandler
+                0x000017e4                TIMG0_IRQHandler
+                0x000017e4                ADC1_IRQHandler
+                0x000017e4                GROUP1_IRQHandler
+                0x000017e4                RTC_IRQHandler
+                0x000017e4                GROUP0_IRQHandler
+                0x000017e4                UART2_IRQHandler
+                0x000017e4                Default_Handler
+                0x000017e4                SVC_Handler
+                0x000017e4                TIMG12_IRQHandler
+                0x000017e4                DAC0_IRQHandler
+                0x000017e4                TIMG7_IRQHandler
+                0x000017e4                SPI0_IRQHandler
+                0x000017e4                AES_IRQHandler
+                0x000017e4                DMA_IRQHandler
+                0x000017e4                TIMA0_IRQHandler
+                0x000017e4                UART3_IRQHandler
+                0x000017e4                CANFD0_IRQHandler
+ *fill*         0x000017ea        0x2 
+ .text.DL_Common_delayCycles
+                0x000017ec        0xc D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_common.o)
+                0x000017ec                DL_Common_delayCycles
+ .text.DL_SPI_init
+                0x000017f8       0x40 D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_spi.o)
+                0x000017f8                DL_SPI_init
+ .text.DL_SPI_setClockConfig
+                0x00001838       0x14 D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_spi.o)
+                0x00001838                DL_SPI_setClockConfig
+ .text.__libc_init_array
+                0x0000184c       0x44 E:/CHENHUI/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-init.o)
+                0x0000184c                __libc_init_array
+                0x00001890                . = ALIGN (0x8)
+ *(.ctors)
+                0x00001890                . = ALIGN (0x8)
+ *(.dtors)
+                0x00001890                . = ALIGN (0x8)
+ *(.init)
+                0x00001890                . = ALIGN (0x8)
+ *(.fini*)
+                0x00001890                . = ALIGN (0x8)
+
+.glue_7         0x00001890        0x0
+ .glue_7        0x00001890        0x0 linker stubs
+
+.glue_7t        0x00001890        0x0
+ .glue_7t       0x00001890        0x0 linker stubs
+
+.vfp11_veneer   0x00001890        0x0
+ .vfp11_veneer  0x00001890        0x0 linker stubs
+
+.v4_bx          0x00001890        0x0
+ .v4_bx         0x00001890        0x0 linker stubs
+
+.iplt           0x00001890        0x0
+ .iplt          0x00001890        0x0 ./TFT180.o
+
+.ramfunc        0x20200000        0x0 load address 0x00001890
+                0x00001890                __ramfunct_load__ = LOADADDR (.ramfunc)
+                0x20200000                __ramfunct_start__ = .
+ *(.ramfunc)
+                0x20200000                . = ALIGN (0x8)
+                0x20200000                __ramfunct_end__ = .
+
+.rodata         0x00001890      0x650
+ *(.rodata)
+ .rodata        0x00001890        0xd ./empty.o
+ *fill*         0x0000189d        0x3 
+ .rodata        0x000018a0       0x40 e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(mulsf3.o)
+                0x000018e0                . = ALIGN (0x8)
+ *(.rodata.*)
+ .rodata.ascii_font_8x16
+                0x000018e0      0x5f0 ./TFT180.o
+                0x000018e0                ascii_font_8x16
+ .rodata.gTFT_SPI_config
+                0x00001ed0        0xa ./ti_msp_dl_config.o
+ *fill*         0x00001eda        0x2 
+ .rodata.gTFT_SPI_clockConfig
+                0x00001edc        0x2 ./ti_msp_dl_config.o
+                0x00001ee0                . = ALIGN (0x8)
+ *fill*         0x00001ede        0x2 
+
+.rel.dyn        0x00001ee0        0x0
+ .rel.iplt      0x00001ee0        0x0 ./TFT180.o
+
+.preinit_array  0x00001ee0        0x0
+                0x00001ee0                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x00001ee0                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x00001ee0        0x0
+                0x00001ee0                . = ALIGN (0x8)
+                0x00001ee0                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+                0x00001ee0                PROVIDE (__init_array_end = .)
+
+.fini_array     0x00001ee0        0x0
+                0x00001ee0                . = ALIGN (0x8)
+                [!provide]                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+                [!provide]                PROVIDE (__fini_array_end = .)
+                0x00001ee0                . = ALIGN (0x8)
+
+.ARM.exidx      0x00001ee0        0x0
+                0x00001ee0                __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00001ee0                __exidx_end = .
+
+.ARM.extab      0x00001ee0        0x0
+                0x00001ee0                . = ALIGN (0x8)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00001ee0                . = ALIGN (0x8)
+                0x00001ee0                __etext = .
+
+.data           0x20200000        0x8 load address 0x00001ee0
+                0x00001ee0                __data_load__ = LOADADDR (.data)
+                0x20200000                __data_start__ = .
+ *(.data)
+ .data          0x20200000        0x0 ./TFT180.o
+ .data          0x20200000        0x0 ./empty.o
+ .data          0x20200000        0x0 ./ti_msp_dl_config.o
+ .data          0x20200000        0x0 ./startup_mspm0g350x_gcc.o
+ .data          0x20200000        0x0 D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_common.o)
+ .data          0x20200000        0x0 D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_spi.o)
+ .data          0x20200000        0x0 e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .data          0x20200000        0x0 e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .data          0x20200000        0x0 e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .data          0x20200000        0x0 e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(eqsf2.o)
+ .data          0x20200000        0x0 e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(gesf2.o)
+ .data          0x20200000        0x0 e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(lesf2.o)
+ .data          0x20200000        0x0 e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(mulsf3.o)
+ .data          0x20200000        0x0 e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(subsf3.o)
+ .data          0x20200000        0x0 e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(fixsfsi.o)
+ .data          0x20200000        0x0 e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(floatsisf.o)
+ .data          0x20200000        0x0 e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
+ .data          0x20200000        0x0 E:/CHENHUI/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-init.o)
+ *(.data*)
+ .data.tft180_bgcolor
+                0x20200000        0x2 ./TFT180.o
+ .data.tft180_x_max
+                0x20200002        0x1 ./TFT180.o
+ .data.tft180_y_max
+                0x20200003        0x1 ./TFT180.o
+ .data.tft180_bgcolor
+                0x20200004        0x2 ./empty.o
+ .data.tft180_x_max
+                0x20200006        0x1 ./empty.o
+ .data.tft180_y_max
+                0x20200007        0x1 ./empty.o
+                0x20200008                . = ALIGN (0x8)
+                0x20200008                __data_end__ = .
+
+.igot.plt       0x20200008        0x0 load address 0x00001ee8
+ .igot.plt      0x20200008        0x0 ./TFT180.o
+
+.bss            0x20200008       0x30
+                0x20200008                __bss_start__ = .
+ *(.shbss)
+ *(.bss)
+ .bss           0x20200008        0x0 ./TFT180.o
+ .bss           0x20200008        0x0 ./empty.o
+ .bss           0x20200008        0x0 ./ti_msp_dl_config.o
+ .bss           0x20200008        0x0 ./startup_mspm0g350x_gcc.o
+ .bss           0x20200008        0x0 D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_common.o)
+ .bss           0x20200008        0x0 D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_spi.o)
+ .bss           0x20200008        0x0 e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .bss           0x20200008        0x0 e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .bss           0x20200008        0x0 e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .bss           0x20200008        0x0 e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(eqsf2.o)
+ .bss           0x20200008        0x0 e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(gesf2.o)
+ .bss           0x20200008        0x0 e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(lesf2.o)
+ .bss           0x20200008        0x0 e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(mulsf3.o)
+ .bss           0x20200008        0x0 e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(subsf3.o)
+ .bss           0x20200008        0x0 e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(fixsfsi.o)
+ .bss           0x20200008        0x0 e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(floatsisf.o)
+ .bss           0x20200008        0x0 e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
+ .bss           0x20200008        0x0 E:/CHENHUI/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-init.o)
+ *(.bss.*)
+ .bss.tft180_pencolor
+                0x20200008        0x2 ./empty.o
+ *(COMMON)
+ *fill*         0x2020000a        0x2 
+ COMMON         0x2020000c       0x28 ./ti_msp_dl_config.o
+                0x2020000c                gTFT_SPIBackup
+                0x20200038                . = ALIGN (0x8)
+ *fill*         0x20200034        0x4 
+                0x20200038                __bss_end__ = .
+
+.noinit         0x20200038        0x0
+ *(*.noinit*)
+                0x20200038                . = ALIGN (0x8)
+
+.heap           0x20200038        0x0
+                0x20200038                __heap_start__ = .
+                0x20200038                end = __heap_start__
+                0x20200038                _end = end
+                0x20200038                __end = end
+ *(.heap)
+                0x20200038                __heap_end__ = .
+                0x20200038                __HeapLimit = __heap_end__
+
+.stack          0x20200038        0x0
+                0x20200038                _stack = .
+ *(.stack)
+
+.BCRConfig
+ *(.BCRConfig)
+
+.BSLConfig
+ *(.BSLConfig)
+                0x20208000                __StackTop = (ORIGIN (REGION_STACK) + LENGTH (REGION_STACK))
+                [!provide]                PROVIDE (__stack = __StackTop)
+LOAD D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a
+LOAD e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a
+LOAD E:/CHENHUI/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libc.a
+LOAD E:/CHENHUI/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libm.a
+START GROUP
+LOAD e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a
+LOAD E:/CHENHUI/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libg.a
+LOAD E:/CHENHUI/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libc.a
+END GROUP
+START GROUP
+LOAD e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a
+LOAD E:/CHENHUI/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libc.a
+LOAD E:/CHENHUI/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libnosys.a
+END GROUP
+OUTPUT(empty_LP_MSPM0G3507_nortos_gcc.out elf32-littlearm)
+
+.debug_info     0x00000000    0x1ed83
+ .debug_info    0x00000000     0x651c ./TFT180.o
+ .debug_info    0x0000651c     0x5fe6 ./empty.o
+ .debug_info    0x0000c502     0x6ad2 ./ti_msp_dl_config.o
+ .debug_info    0x00012fd4      0x1c4 ./startup_mspm0g350x_gcc.o
+ .debug_info    0x00013198     0x55ff D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_common.o)
+ .debug_info    0x00018797     0x65ec D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_spi.o)
+
+.debug_abbrev   0x00000000      0xe92
+ .debug_abbrev  0x00000000      0x364 ./TFT180.o
+ .debug_abbrev  0x00000364      0x22c ./empty.o
+ .debug_abbrev  0x00000590      0x323 ./ti_msp_dl_config.o
+ .debug_abbrev  0x000008b3       0xda ./startup_mspm0g350x_gcc.o
+ .debug_abbrev  0x0000098d      0x166 D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_common.o)
+ .debug_abbrev  0x00000af3      0x39f D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_spi.o)
+
+.debug_aranges  0x00000000      0x2c8
+ .debug_aranges
+                0x00000000       0x98 ./TFT180.o
+ .debug_aranges
+                0x00000098       0x20 ./empty.o
+ .debug_aranges
+                0x000000b8       0xf0 ./ti_msp_dl_config.o
+ .debug_aranges
+                0x000001a8       0x30 ./startup_mspm0g350x_gcc.o
+ .debug_aranges
+                0x000001d8       0x20 D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_common.o)
+ .debug_aranges
+                0x000001f8       0xd0 D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_spi.o)
+
+.debug_ranges   0x00000000      0x640
+ .debug_ranges  0x00000000       0x88 ./TFT180.o
+ .debug_ranges  0x00000088       0x10 ./empty.o
+ .debug_ranges  0x00000098       0xe0 ./ti_msp_dl_config.o
+ .debug_ranges  0x00000178       0x20 ./startup_mspm0g350x_gcc.o
+ .debug_ranges  0x00000198       0x10 D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_common.o)
+ .debug_ranges  0x000001a8      0x498 D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_spi.o)
+
+.debug_line     0x00000000     0x28ea
+ .debug_line    0x00000000      0x7c3 ./TFT180.o
+ .debug_line    0x000007c3      0x3d9 ./empty.o
+ .debug_line    0x00000b9c      0x78c ./ti_msp_dl_config.o
+ .debug_line    0x00001328      0x1ab ./startup_mspm0g350x_gcc.o
+ .debug_line    0x000014d3      0x427 D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_common.o)
+ .debug_line    0x000018fa      0xff0 D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_spi.o)
+
+.debug_str      0x00000000     0x383b
+ .debug_str     0x00000000     0x1fc2 ./TFT180.o
+                               0x210b (size before relaxing)
+ .debug_str     0x00001fc2       0x10 ./empty.o
+                               0x1f52 (size before relaxing)
+ .debug_str     0x00001fd2     0x11d2 ./ti_msp_dl_config.o
+                               0x309f (size before relaxing)
+ .debug_str     0x000031a4      0x13d ./startup_mspm0g350x_gcc.o
+                                0x2ca (size before relaxing)
+ .debug_str     0x000032e1      0x1b6 D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_common.o)
+                               0x1b31 (size before relaxing)
+ .debug_str     0x00003497      0x3a4 D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_spi.o)
+                               0x245b (size before relaxing)
+
+.comment        0x00000000       0x79
+ .comment       0x00000000       0x79 ./TFT180.o
+                                 0x7a (size before relaxing)
+ .comment       0x00000079       0x7a ./empty.o
+ .comment       0x00000079       0x7a ./ti_msp_dl_config.o
+ .comment       0x00000079       0x7a ./startup_mspm0g350x_gcc.o
+ .comment       0x00000079       0x7a D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_common.o)
+ .comment       0x00000079       0x7a D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_spi.o)
+
+.ARM.attributes
+                0x00000000       0x2c
+ .ARM.attributes
+                0x00000000       0x2b ./TFT180.o
+ .ARM.attributes
+                0x0000002b       0x2b ./empty.o
+ .ARM.attributes
+                0x00000056       0x2b ./ti_msp_dl_config.o
+ .ARM.attributes
+                0x00000081       0x2b ./startup_mspm0g350x_gcc.o
+ .ARM.attributes
+                0x000000ac       0x2b D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_common.o)
+ .ARM.attributes
+                0x000000d7       0x2b D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_spi.o)
+ .ARM.attributes
+                0x00000102       0x1e e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000120       0x1e e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000013e       0x1e e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .ARM.attributes
+                0x0000015c       0x2c e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(eqsf2.o)
+ .ARM.attributes
+                0x00000188       0x2c e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(gesf2.o)
+ .ARM.attributes
+                0x000001b4       0x2c e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(lesf2.o)
+ .ARM.attributes
+                0x000001e0       0x2c e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(mulsf3.o)
+ .ARM.attributes
+                0x0000020c       0x2c e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(subsf3.o)
+ .ARM.attributes
+                0x00000238       0x2c e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(fixsfsi.o)
+ .ARM.attributes
+                0x00000264       0x2c e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(floatsisf.o)
+ .ARM.attributes
+                0x00000290       0x1e e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
+ .ARM.attributes
+                0x000002ae       0x2c E:/CHENHUI/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-init.o)
+
+.debug_frame    0x00000000      0x9e0
+ .debug_frame   0x00000000      0x218 ./TFT180.o
+ .debug_frame   0x00000218       0x30 ./empty.o
+ .debug_frame   0x00000248      0x358 ./ti_msp_dl_config.o
+ .debug_frame   0x000005a0       0x68 ./startup_mspm0g350x_gcc.o
+ .debug_frame   0x00000608       0x20 D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_common.o)
+ .debug_frame   0x00000628      0x220 D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_spi.o)
+ .debug_frame   0x00000848       0x20 e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .debug_frame   0x00000868       0x2c e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(eqsf2.o)
+ .debug_frame   0x00000894       0x30 e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(gesf2.o)
+ .debug_frame   0x000008c4       0x30 e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(lesf2.o)
+ .debug_frame   0x000008f4       0x3c e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(mulsf3.o)
+ .debug_frame   0x00000930       0x38 e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(subsf3.o)
+ .debug_frame   0x00000968       0x20 e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(fixsfsi.o)
+ .debug_frame   0x00000988       0x2c e:/chenhui/gcc_arm_none_eabi_9_2_1/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v6-m/nofp\libgcc.a(floatsisf.o)
+ .debug_frame   0x000009b4       0x2c E:/CHENHUI/gcc_arm_none_eabi_9_2_1/arm-none-eabi/lib/thumb/v6-m/nofp\libc.a(lib_a-init.o)
+
+.debug_loc      0x00000000      0x7ea
+ .debug_loc     0x00000000      0x7ea D:/TI/mspm0_sdk_2_04_00_06/source\ti/driverlib/lib/gcc/m0p/mspm0g1x0x_g3x0x/driverlib.a(dl_spi.o)

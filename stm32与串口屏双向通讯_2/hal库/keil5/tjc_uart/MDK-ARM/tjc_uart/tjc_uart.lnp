@@ -1,0 +1,25 @@
+--cpu Cortex-M3
+"tjc_uart\startup_stm32f103xb.o"
+"tjc_uart\main.o"
+"tjc_uart\stm32f1xx_it.o"
+"tjc_uart\stm32f1xx_hal_msp.o"
+"tjc_uart\tjc_usart_hmi.o"
+"tjc_uart\stm32f1xx_hal_gpio_ex.o"
+"tjc_uart\stm32f1xx_hal_tim.o"
+"tjc_uart\stm32f1xx_hal_tim_ex.o"
+"tjc_uart\stm32f1xx_hal_uart.o"
+"tjc_uart\stm32f1xx_hal.o"
+"tjc_uart\stm32f1xx_hal_rcc.o"
+"tjc_uart\stm32f1xx_hal_rcc_ex.o"
+"tjc_uart\stm32f1xx_hal_gpio.o"
+"tjc_uart\stm32f1xx_hal_dma.o"
+"tjc_uart\stm32f1xx_hal_cortex.o"
+"tjc_uart\stm32f1xx_hal_pwr.o"
+"tjc_uart\stm32f1xx_hal_flash.o"
+"tjc_uart\stm32f1xx_hal_flash_ex.o"
+"tjc_uart\stm32f1xx_hal_exti.o"
+"tjc_uart\system_stm32f1xx.o"
+--strict --scatter "tjc_uart\tjc_uart.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "tjc_uart.map" -o tjc_uart\tjc_uart.axf
