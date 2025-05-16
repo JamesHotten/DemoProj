@@ -1,0 +1,27 @@
+--cpu=Cortex-M4.fp.sp
+"ads8688_gftry\startup_stm32f407xx.o"
+"ads8688_gftry\main.o"
+"ads8688_gftry\gpio.o"
+"ads8688_gftry\spi.o"
+"ads8688_gftry\stm32f4xx_it.o"
+"ads8688_gftry\stm32f4xx_hal_msp.o"
+"ads8688_gftry\stm32f4xx_hal_spi.o"
+"ads8688_gftry\stm32f4xx_hal_rcc.o"
+"ads8688_gftry\stm32f4xx_hal_rcc_ex.o"
+"ads8688_gftry\stm32f4xx_hal_flash.o"
+"ads8688_gftry\stm32f4xx_hal_flash_ex.o"
+"ads8688_gftry\stm32f4xx_hal_flash_ramfunc.o"
+"ads8688_gftry\stm32f4xx_hal_gpio.o"
+"ads8688_gftry\stm32f4xx_hal_dma_ex.o"
+"ads8688_gftry\stm32f4xx_hal_dma.o"
+"ads8688_gftry\stm32f4xx_hal_pwr.o"
+"ads8688_gftry\stm32f4xx_hal_pwr_ex.o"
+"ads8688_gftry\stm32f4xx_hal_cortex.o"
+"ads8688_gftry\stm32f4xx_hal.o"
+"ads8688_gftry\stm32f4xx_hal_exti.o"
+"ads8688_gftry\system_stm32f4xx.o"
+"ads8688_gftry\ads8688.o"
+--strict --scatter "ads8688_GFtry\ads8688_GFtry.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "ads8688_GFtry.map" -o ads8688_GFtry\ads8688_GFtry.axf

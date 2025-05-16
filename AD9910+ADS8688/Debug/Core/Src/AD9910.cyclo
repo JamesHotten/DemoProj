@@ -1,0 +1,10 @@
+../Core/Src/AD9910.c:276:6:Init_ad9910	1
+../Core/Src/AD9910.c:297:6:txd_8bit	3
+../Core/Src/AD9910.c:319:6:Txcfr	8
+../Core/Src/AD9910.c:361:6:Txprofile	4
+../Core/Src/AD9910.c:385:6:Freq_convert	2
+../Core/Src/AD9910.c:403:6:Write_Amplitude	1
+../Core/Src/AD9910.c:416:6:Write_32bit	3
+../Core/Src/AD9910.c:442:6:AD9910_RAM_WAVE_Set	9
+../Core/Src/AD9910.c:519:6:AD9910_DRG_FreInit_AutoSet	4
+../Core/Src/AD9910.c:575:6:AD9910_DRG_FrePara_Set	4

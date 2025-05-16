@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "delay.h": "c",
+    "spi.h": "c",
+    "ads8688.h": "c"
+  }
+}

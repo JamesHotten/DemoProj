@@ -1,0 +1,5 @@
+../Core/Src/ads8688.c:65:6:ADS8688_Init	1
+../Core/Src/ads8688.c:99:6:ADS8688_Write_Command	1
+../Core/Src/ads8688.c:121:6:ADS8688_Write_Program	1
+../Core/Src/ads8688.c:142:9:ADS8688_Read_Program	1
+../Core/Src/ads8688.c:165:6:Get_AUTO_RST_Mode_ADC_Data	2

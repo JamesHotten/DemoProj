@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "ads8688.h": "c",
+        "spi.h": "c"
+    }
+}

@@ -1,0 +1,7 @@
+"./TFT180.o"
+"./empty.o"
+"./startup_mspm0g350x_gcc.o"
+-Wl,-Tdevice.lds.genlibs
+-lgcc
+-lc
+-lm
